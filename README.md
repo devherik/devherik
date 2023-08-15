@@ -1,4 +1,4 @@
-<img align="right" src="https://visitors-badge.laobi.icu/badge?page_id=devherik.devherik" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devherik.devherik" />
 <!--
 **devherik/devherik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
