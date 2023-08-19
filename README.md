@@ -11,20 +11,7 @@ Had worked with Agile methodologies, also with Java and its dependencies when I 
 <br/>
 <div align="center">
   <a href="mailto:dev.herik@gmail.com">
-    <h3>Send me a email</h3>
+    <h3>Send me an email</h3>
   </a>
 </div>
 
-<h2 align="center">Olá, meu nome é Herik, sou um desenvolvedor de software brasileiro</h2>
-<br/>
-<div align="center">
-  Atualmente estou me formando em Ciências da Computação.
-  Venho trabalhando em um aplicativo de contos usando o framework Flutter.
-  Trabalhei com Metodologias Ãgeis, também com Java quando me formei como Técnico em Informnática.
-</div>
-<br/>
-<div align="center">
-  <a href="mailto:dev.herik@gmail.com">
-    <h3>Entre em contato</h3>
-  </a>
-</div>
