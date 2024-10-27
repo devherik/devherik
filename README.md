@@ -13,7 +13,7 @@ I know I still have a long way to go, but curiosity is something I'll never lack
 <br/>
 <div align="center">
   <a href="mailto:dev.herik@gmail.com">
-    <h3>Here is my contact</h3>
+    <h3>Contact: dev.herik@gmail.com</h3>
   </a>
 </div>
 
