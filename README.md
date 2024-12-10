@@ -4,11 +4,11 @@
 <h2 align="center">I'm Herik, a mobile developer from Brazil</h2>
 <br/>
 <div align="center">
-I've always been fascinated by technology, video games, and stories. As a child, I loved playing my Nintendo, listening to artists like Linkin Park, and reading fantasy books. These passions led me to become curious—a trait I consider my best skill.
+Graduated as an IT Technician with a focus on systems development, expected to complete my Computer Science degree in 2025.
+I am an enthusiast of Clean Architecture principles, such as the Single Responsibility Principle (SRP) and the Open/Closed Principle. I constantly seek to deepen my understanding of Clean Code to develop orthogonal software independent of the tool used. During my technical course, I acquired solid experience in Java, applying the MVC architecture and object-oriented programming concepts.
+In the last 2 years, I have developed several personal and professional projects using Flutter, always prioritizing best programming practices.
+I have an advanced level of English and am in the process of perfecting my fluency through classes with native speakers. I aim to work as a full-stack software developer, using my technical skills and knowledge of Clean Architecture to create innovative and high-quality solutions.
 
-After completing my minor in System Development at CEFET-MG, a federal college in Brazil, I began learning more about software best practices. My goal was to excel in programming beyond just coding in a specific language—at that time, I focused on Java. Currently, I'm majoring in Computer Science, paying much more attention to computing fundamentals and core concepts. Additionally, over the past two years, I've been carving a path in mobile development with Flutter, preparing myself to start my career as a developer.
-
-I know I still have a long way to go, but curiosity is something I'll never lack.
 </div>
 <br/>
 <div align="center">
