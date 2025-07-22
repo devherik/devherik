@@ -1,16 +1,14 @@
 Hi there, I'm Herik! 👋
 
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/herik-colares-57ab0514b/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
 <a href="mailto:dev.herik@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+
 👨‍💻 About Me
 
 I'm a passionate developer from Brazil, currently working as a Junior Developer and on track to graduate with a B.S. in Computer Science in 2026.
 
-My core philosophy is rooted in Clean Architecture and Clean Code. I believe in building software that is scalable, maintainable, and independent of specific frameworks or tools. I'm always striving to apply principles like SRP and OCP to create robust and high-quality solutions.
+My core philosophy is rooted in the principles of Clean Architecture and Clean Code. I believe in building software that is scalable, maintainable, and independent of specific frameworks or tools. I'm always striving to apply principles like SRP and OCP to create robust and high-quality solutions.
 
     🎓 Graduating in Computer Science (2026) & previously graduated as an IT Technician.
 
@@ -31,38 +29,46 @@ Here are some of the technologies I'm proficient in and use regularly:
 Frontend & Mobile:
 
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React">
+<img src="https://img.shields.io/badge/ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Dart-0175C2%3Fstyle%3Dfor-the-badge%26logo%3Ddart%26logoColor%3Dwhite" alt="Dart">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3">
+<img src="https://img.shields.io/badge/Dart-0175C23F?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
 Backend & AI:
 
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Go-00ADD8%3Fstyle%3Dfor-the-badge%26logo%3Dgo%26logoColor%3Dwhite" alt="Go">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
 
 State Management (Flutter):
 
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Provider-02569B%3Fstyle%3Dfor-the-badge%26logo%3Dflutter%26logoColor%3Dwhite" alt="Provider">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Riverpod-4A148C%3Fstyle%3Dfor-the-badge%26logo%3Dflutter%26logoColor%3Dwhite" alt="Riverpod">
+<img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider">
+<img src="https://img.shields.io/badge/Riverpod-4A148C?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod">
 </p>
 
 Tools & Platforms:
 
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" alt="Firebase">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </p>
-📊 My GitHub Stats
-![Herik's GitHub stats](https://github-readme-stats.vercel.app/api?username=devherik&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devherik&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+📊 My GitHub Stats:
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=devherik&show_icons=true&theme=radical" alt="Herik's GitHub stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devherik&layout=compact&theme=radical" alt="Top Langs" />
+</a> 
+</p>
+
